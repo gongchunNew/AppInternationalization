@@ -1,0 +1,18 @@
+/* Class = "UILabel"; text = "Test the internationalization"; ObjectID = "EQJ-qO-Hvm"; */
+"EQJ-qO-Hvm.text" = "Probando la internacionalización de";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "Igo-L7-Ykb"; */
+"Igo-L7-Ykb.title" = "es";
+
+/* Class = "UIButton"; normalTitle = "To switch between languages"; ObjectID = "b50-Cb-QD2"; */
+"b50-Cb-QD2.normalTitle" = "Cambiar idioma";
+
+/* Class = "UINavigationItem"; title = "languageList"; ObjectID = "hn3-zz-ItG"; */
+"hn3-zz-ItG.title" = "La lista de lenguas";
+
+/* Class = "UINavigationItem"; title = "languageChange"; ObjectID = "j17-jF-QdF"; */
+"j17-jF-QdF.title" = "Seleccione idioma";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "vZr-Dn-BY5"; */
+"vZr-Dn-BY5.title" = "a";
+
